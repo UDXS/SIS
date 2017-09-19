@@ -1,0 +1,9 @@
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\bin\x86\Debug\Content\hero.xnb
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\bin\x86\Debug\Content\missilehero.xnb
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\bin\x86\Debug\Content\sf.xnb
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\bin\x86\Debug\SIS.exe
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\bin\x86\Debug\SIS.pdb
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\obj\x86\Debug\Windows Copy of SIS.csprojResolveAssemblyReference.cache
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\obj\x86\Debug\SIS.exe
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\obj\x86\Debug\SIS.pdb

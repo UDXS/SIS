@@ -1,0 +1,17 @@
+C:\Users\UDXS\Documents\Code\C#\SIS\SIS\SIS\bin\Xbox 360\Debug\Content\hero.xnb
+C:\Users\UDXS\Documents\Code\C#\SIS\SIS\SIS\bin\Xbox 360\Debug\Content\missilehero.xnb
+C:\Users\UDXS\Documents\Code\C#\SIS\SIS\SIS\bin\Xbox 360\Debug\Content\enemy.xnb
+C:\Users\UDXS\Documents\Code\C#\SIS\SIS\SIS\bin\Xbox 360\Debug\Content\missileenemy.xnb
+C:\Users\UDXS\Documents\Code\C#\SIS\SIS\SIS\bin\Xbox 360\Debug\Content\background.xnb
+C:\Users\UDXS\Documents\Code\C#\SIS\SIS\SIS\bin\Xbox 360\Debug\Content\pausebutton.xnb
+C:\Users\UDXS\Documents\Code\C#\SIS\SIS\SIS\bin\Xbox 360\Debug\Content\debug.xnb
+C:\Users\UDXS\Documents\Code\C#\SIS\SIS\SIS\bin\Xbox 360\Debug\Content\heroshoot.xnb
+C:\Users\UDXS\Documents\Code\C#\SIS\SIS\SIS\bin\Xbox 360\Debug\Content\explosion.xnb
+C:\Users\UDXS\Documents\Code\C#\SIS\SIS\SIS\bin\Xbox 360\Debug\Content\music.xnb
+C:\Users\UDXS\Documents\Code\C#\SIS\SIS\SIS\bin\Xbox 360\Debug\Content\enemyshoot.xnb
+C:\Users\UDXS\Documents\Code\C#\SIS\SIS\SIS\bin\Xbox 360\Debug\SIS.exe
+C:\Users\UDXS\Documents\Code\C#\SIS\SIS\SIS\bin\Xbox 360\Debug\SIS.pdb
+C:\Users\UDXS\Documents\Code\C#\SIS\SIS\SIS\obj\Xbox 360\Debug\Xbox 360 Copy of SIS.csprojResolveAssemblyReference.cache
+C:\Users\UDXS\Documents\Code\C#\SIS\SIS\SIS\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\UDXS\Documents\Code\C#\SIS\SIS\SIS\obj\Xbox 360\Debug\SIS.exe
+C:\Users\UDXS\Documents\Code\C#\SIS\SIS\SIS\obj\Xbox 360\Debug\SIS.pdb

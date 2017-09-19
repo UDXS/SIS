@@ -1,0 +1,17 @@
+c:\users\udms\documents\visual studio 2012\Projects\SIS\SIS\SIS\bin\Windows Phone\Debug\SIS.dll
+c:\users\udms\documents\visual studio 2012\Projects\SIS\SIS\SIS\bin\Windows Phone\Debug\SIS.pdb
+c:\users\udms\documents\visual studio 2012\Projects\SIS\SIS\SIS\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\udms\documents\visual studio 2012\Projects\SIS\SIS\SIS\obj\Windows Phone\Debug\SIS.dll
+c:\users\udms\documents\visual studio 2012\Projects\SIS\SIS\SIS\obj\Windows Phone\Debug\SIS.pdb
+c:\users\udms\documents\visual studio 2012\Projects\SIS\SIS\SIS\bin\Windows Phone\Debug\AppManifest.xaml
+c:\users\udms\documents\visual studio 2012\Projects\SIS\SIS\SIS\obj\Windows Phone\Debug\WMAppManifest.xml.g
+c:\users\udms\documents\visual studio 2012\Projects\SIS\SIS\SIS\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+c:\users\udms\documents\visual studio 2012\Projects\SIS\SIS\SIS\bin\Windows Phone\Debug\SIS.xap
+c:\users\udms\documents\visual studio 2012\Projects\SIS\SIS\SIS\obj\Windows Phone\Debug\XapCacheFile.xml
+c:\users\udms\documents\visual studio 2012\Projects\SIS\SIS\SIS\bin\Windows Phone\Debug\Content\hero.xnb
+c:\users\udms\documents\visual studio 2012\Projects\SIS\SIS\SIS\obj\Windows Phone\Debug\SIS.csprojResolveAssemblyReference.cache
+c:\users\udms\documents\visual studio 2012\Projects\SIS\SIS\SIS\bin\Windows Phone\Debug\Content\missilehero.xnb
+C:\Users\UDMS\documents\visual studio 2012\Projects\SIS\SIS\SIS\bin\Windows Phone\Debug\Content\sf.xnb
+C:\Users\UDXS\Documents\Code\C#\SIS\SIS\SIS\obj\Windows Phone\Debug\SIS.dll
+C:\Users\UDXS\Documents\Code\C#\SIS\SIS\SIS\obj\Windows Phone\Debug\SIS.pdb

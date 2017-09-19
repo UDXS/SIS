@@ -1,0 +1,16 @@
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\bin\x86\Debug\Content\hero.xnb
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\bin\x86\Debug\Content\missilehero.xnb
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\bin\x86\Debug\Content\sf.xnb
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\bin\x86\Debug\SIS.exe
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\bin\x86\Debug\SIS.pdb
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\obj\x86\Debug\SIS.exe
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\obj\x86\Debug\SIS.pdb
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\bin\x86\Debug\Content\heroshoot.xnb
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\bin\x86\Debug\Content\explosion.xnb
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\bin\x86\Debug\Content\music.xnb
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\bin\x86\Debug\SIS.exe.manifest
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\bin\x86\Debug\SIS.application
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\obj\x86\Debug\SIS.exe.manifest
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\obj\x86\Debug\SIS.application
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\obj\x86\Debug\SIS Windows.csprojResolveAssemblyReference.cache

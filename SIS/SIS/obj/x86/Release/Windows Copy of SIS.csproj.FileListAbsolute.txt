@@ -1,0 +1,8 @@
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\bin\x86\Release\Content\hero.xnb
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\bin\x86\Release\Content\missilehero.xnb
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\bin\x86\Release\Content\sf.xnb
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\bin\x86\Release\SIS.exe
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\bin\x86\Release\SIS.pdb
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\obj\x86\Release\SIS.exe
+C:\Users\UDMS\Documents\Visual Studio 2012\Projects\SIS\SIS\SIS\obj\x86\Release\SIS.pdb

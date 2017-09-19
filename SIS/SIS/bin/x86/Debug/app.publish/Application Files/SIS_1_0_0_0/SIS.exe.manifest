@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="SIS.exe" version="1.0.0.0" publicKeyToken="944cd0edf37c205c" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="Game.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SIS" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="SIS.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SIS.exe" size="13824">
+      <assemblyIdentity name="SIS" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>jMovvn/EjH3TVeTNa9/xzLuPwTc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Content\explosion.xnb" size="123529">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>j8mQ7tDZ7wj9xPaMKsVoOQYaZEA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\hero.xnb" size="40187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>fiewmuCWnAk/yoQf9yfuWngxSFo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\heroshoot.xnb" size="51209">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>hRQ989KaZhIYwz18lFjYszouwxA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\missilehero.xnb" size="10187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>j4iR40dN8ChPY11+4fuEZWxz3xc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\music.xnb" size="538841">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>YOA7erSOc1RbEU1WT1NgqyXhRPM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\sf.xnb" size="38062">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>duZbB8BbVaUSWOZ2LRQaBZMDxJA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Game.ico" size="4286">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>/y21PfwGnUAkwpPwwaFuIIyWENo=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=UDMS-PC\UDMS" issuerKeyHash="5d7d4978d3f2f75f3aa4ba02df9edbc0578376cb" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>OqZvjY4rRk+5huSDWBx2TP892OA=</DigestValue></Reference></SignedInfo><SignatureValue>TVzzUkmS4WelkMAZ+9ckQROpo5U3yw6i0OhbYwio4/HvlsFVY8hQdonu6+5l0/ZUXjatLmREdeX/TohJgVum3zx+IGPcCW3+DqQGov0FBsuXafHmNhfKRZxycTXV9eeIYvH5YuRbQ1UUltMpIUqSKS1NUEN2nvznNUwiR/A6uvY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>4wsjrCvqQwCEasdH15JlEcGbjd+zhKQ61vBPCuulxBpO7WdGEEhNsZbT8P6yr9NU4gQWPTzIuOzL1pKfDmiXAvUk9O4aGiFqWC56tyCMBvASIAsgfhnF+SvG61Fgc0oXPKth4azIT8WkF9UQ6zuof7In6LlGigh9YJUCXk5Lk98=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="e0d83dff4c761c5883e486b94f462b8e8d6fa63a" Description="" Url=""><as:assemblyIdentity name="SIS.exe" version="1.0.0.0" publicKeyToken="944cd0edf37c205c" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=UDMS-PC\UDMS</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>qR5IguybcnGsJACbvmY96H0DLLY=</DigestValue></Reference></SignedInfo><SignatureValue>xJSMUcAS35VLSJjh7GQQPBmdERCXVTVG2wCs7hh9xjiAfQbUdlsEP3YH+tHW28dozDKZ8Qw/mB4HzMdUQT0lKSpcUWBoj92Wq4Kk6PtwmH9CjHE9G9mw147R632n5oTdlt2ZR2AtmRrxTCkQ0w6cTO8fqCQZOlZf4vhgqFqEK1s=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>4wsjrCvqQwCEasdH15JlEcGbjd+zhKQ61vBPCuulxBpO7WdGEEhNsZbT8P6yr9NU4gQWPTzIuOzL1pKfDmiXAvUk9O4aGiFqWC56tyCMBvASIAsgfhnF+SvG61Fgc0oXPKth4azIT8WkF9UQ6zuof7In6LlGigh9YJUCXk5Lk98=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQYzx8PNLFg4RNtrZ09ywL5jANBgkqhkiG9w0BAQUFADAjMSEwHwYDVQQDHhgAVQBEAE0AUwAtAFAAQwBcAFUARABNAFMwHhcNMTQxMjI0MTg0MjI1WhcNMTUxMjI1MDA0MjI1WjAjMSEwHwYDVQQDHhgAVQBEAE0AUwAtAFAAQwBcAFUARABNAFMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOMLI6wr6kMAhGrHR9eSZRHBm43fs4SkOtbwTwrrpcQaTu1nRhBITbGW0/D+sq/TVOIEFj08yLjsy9aSnw5olwL1JPTuGhohalguercgjAbwEiALIH4ZxfkrxutRYHNKFzyrYeGsyE/FpBfVEOs7qH+yJ+i5RooIfWCVAl5OS5PfAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAyr45d9dPuWUbMkyyxuuC5oplIUq83BMU3u35P9CsY6kx1QStmG9DP0KMyQ4H3+aLI8r7m4nktCFCkemt1QiOTvKpVBTNp3AO/zK8qd7fl7cCD3Ojzc2KMsHz9WMMFef15DzwMeexzSqkHK8TcjZItDjOLEMqko0qnoKk0r+8nZ4=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
